@@ -1,0 +1,42 @@
+{
+	"ImportPath": "github.com/microryza/report",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/GeertJohan/go.rice",
+			"Rev": "42fe5e1e4e358b413e3e1a7b2243ec8599209107"
+		},
+		{
+			"ImportPath": "github.com/azer/debug",
+			"Rev": "4769e572857fa58702ece9dde244b3c42de17498"
+		},
+		{
+			"ImportPath": "github.com/azer/go-style",
+			"Rev": "14e31c5abbe5c10d3ea655bec860b312d2225f84"
+		},
+		{
+			"ImportPath": "github.com/daaku/go.zipexe",
+			"Rev": "a5fe2436ffcb3236e175e5149162b41cd28bd27d"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/internal",
+			"Rev": "3e4727f0ef5938d3a846cdb57e560dba4419e854"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/redis",
+			"Rev": "3e4727f0ef5938d3a846cdb57e560dba4419e854"
+		},
+		{
+			"ImportPath": "github.com/kardianos/osext",
+			"Rev": "6e7f843663477789fac7c02def0d0909e969b4e5"
+		},
+		{
+			"ImportPath": "github.com/mroth/sseserver",
+			"Rev": "19484734a97ce2201d04989a667463a68f63992f"
+		},
+		{
+			"ImportPath": "github.com/ryanlower/setting",
+			"Rev": "1c0c9db35430a9011c14cb43dd6e328d2d3aecf5"
+		}
+	]
+}
